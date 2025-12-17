@@ -3,3 +3,5 @@ A RAM only minimal operating system concept for my ARM chromebook, with a refere
 
 Of course, there are multiple projects in here due to me releasing rootfs, nothing proprietary was distributed, but anything is still subject to their original licenses I suppose.
 This just aims to provide a firewall, many Linux functions, SSH client, a browser, and a possible GUI environment for terminals and is based on proot-distro's Alpine rootfs.
+
+Anyways permissions are not saved, so you might need to change the permissions back to root if needed if you're going to use this for your own devices.
